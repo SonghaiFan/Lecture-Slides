@@ -2,13 +2,6 @@
 theme: default
 title: Data Visualisation Studio 2
 layout: cover
-info: |
-  ## FIT2179 Week 2
-  Studio agenda, assignment briefing, and topic discussion
-highlighter: shiki
-drawings:
-  persist: false
-transition: slide-left
 ---
 
 # FIT2179 Data Visualisation Week 2
@@ -22,11 +15,31 @@ Songhai Fan ·  Monash University
 layout: default
 ---
 
+<p class="text-xs uppercase tracking-[0.18em] text-slate-500">Session flow</p>
+
+# Agenda Overview
+
+<div class="text-sm">
+  <ol class="mt-3 space-y-2">
+    <li>Week 2 deadlines and non-negotiables (10 min)</li>
+    <li>Forum Posting 1 review and feedback discussion (20 min)</li>
+    <li>Visualisation 1 briefing: requirements and rubric focus (30 min)</li>
+    <li>Viable topic scope and example discussion (15 min)</li>
+    <li>Week 2 forum task reminder (5 min)</li>
+    <li>1-on-1 topic consultations and next actions (40 min)</li>
+  </ol>
+</div>
+
+
+---
+layout: default
+---
+
 <p class="text-xs uppercase tracking-[0.18em] text-slate-500">Deadlines</p>
 
 # Week 2: What Is Due This Sunday
 
-<div class="max-w-[88%] text-sm">
+<div class="text-sm">
   <table class="mt-4 text-[0.95rem]">
     <thead>
       <tr>
@@ -81,8 +94,7 @@ layout: two-cols
   <ol class="mt-3">
     <li>We will review a small set of forum posts in class.</li>
     <li>If you are selected, be ready to explain your visualisation.</li>
-    <li>Not presenting when selected, or being absent, results in 0 for that presentation opportunity.</li>
-    <li>Use the discussion to understand the marking logic and improve future posts.</li>
+    <li>Use the forum post to test your own visualisation.</li>
   </ol>
 </div>
 
@@ -98,10 +110,6 @@ layout: two-cols
   </ul>
 </div>
 
-<div class="mt-5 border-l-2 border-sky-700 pl-4 text-sm text-slate-600">
-The point is not just to grade the work. It is to show how stronger visual analysis is written.
-</div>
-
 ---
 layout: two-cols
 ---
@@ -114,7 +122,7 @@ layout: two-cols
 
 - is the chart choice sensible for the stated task
 - can the student identify What, Why, and How correctly
-- is there a real critique, not just description
+- is there a story, not just description
 - is the takeaway specific rather than generic
 
 </VClicks>
@@ -442,26 +450,12 @@ Use these to discuss scope, storytelling, topic distinctiveness, and how text su
 layout: two-cols
 ---
 
-<p class="text-xs uppercase tracking-[0.18em] text-slate-500">Week 2 forum task</p>
-
-# Forum Posting For Week 2
-
-<div class="text-sm">
-  <p><strong>Explain in class</strong></p>
-  <ul class="mt-3">
-    <li>what students need to submit</li>
-    <li>where to post it</li>
-    <li>when it is due</li>
-    <li>how it connects to the What, Why, How framework</li>
-  </ul>
-</div>
-
-::right::
+# Reminder
+Week 2 forum task
 
 <div class="border border-slate-300 bg-white/60 p-4 text-sm">
-  <p><strong>Reminder</strong></p>
   <p class="mt-3">Forum Posting Week 2 is due Sunday of Week 2.</p>
-  <p class="mt-3">Students should not leave both the forum post and proposal until the same evening.</p>
+ 
 </div>
 
 ---
