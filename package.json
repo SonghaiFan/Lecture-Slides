@@ -1,0 +1,19 @@
+{
+  "name": "fit2179-slides",
+  "version": "1.0.0",
+  "description": "FIT2179 Data Visualisation - AI-friendly Slidev template",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export --output ./exports/",
+    "export-per": "slidev export --per-slide --output ./exports/per-slide/"
+  },
+  "dependencies": {
+    "@slidev/cli": "latest",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.42.0"
+  }
+}
