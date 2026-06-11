@@ -429,7 +429,6 @@ layout: default
     <ul>
       <li><a href="https://public.tableau.com/app/profile/ogury/viz/WorldCupEffectv2/WorldCup" target="_blank">World Cup Effect</a></li>
       <li><a href="https://public.tableau.com/app/profile/alex.dixon/viz/CrimeSafetyatIvyLeagueSchoolsv4/CrimeSafetyatIvyLeagueSchools" target="_blank">How Safe Are Ivy League Schools</a></li>
-      <li><a href="https://public.tableau.com/en-us/gallery/european-cities-budget?gallery=votd" target="_blank">European Cities on a Budget</a></li>
       <li><a href="https://public.tableau.com/app/profile/elaine3070/viz/FIT3179ProjectPart1V1_4/FinalDashboard" target="_blank">Italy as a Tourist Destination</a></li>
     </ul>
   </div>
